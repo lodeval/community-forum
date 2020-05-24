@@ -27,3 +27,18 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Client
+
+```sh
+cd client
+npm install
+npm run serve
+```
+### Server
+
+```sh
+cd server
+npm install
+npm run start
+```
